@@ -1,0 +1,179 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "ID" : "ID",
+    "Province_Code" : "Province_Code",
+    "CROSSING_POINTS" : "CROSSING_POINTS",
+    "Type" : "Type",
+    "Latitude" : "Latitude",
+    "Longitude" : "Longitude"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "ID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "ID"
+    },
+    {
+      "name" : "Province_Code",
+      "type" : "esriFieldTypeString",
+      "alias" : "Province_Code",
+      "length" : 8000
+    },
+    {
+      "name" : "CROSSING_POINTS",
+      "type" : "esriFieldTypeString",
+      "alias" : "CROSSING_POINTS",
+      "length" : 8000
+    },
+    {
+      "name" : "Type",
+      "type" : "esriFieldTypeString",
+      "alias" : "Type",
+      "length" : 8000
+    },
+    {
+      "name" : "Latitude",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Latitude"
+    },
+    {
+      "name" : "Longitude",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Longitude"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "ID" : 1,
+        "Province_Code" : "AF31",
+        "CROSSING_POINTS" : "Abu Nasar Farahi ",
+        "Type" : "Official",
+        "Latitude" : 32.165039,
+        "Longitude" : 60.873466999999998
+      },
+      "geometry" : {
+        "x" : 60.873466999999998,
+        "y" : 32.165039
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 3,
+        "Province_Code" : "AF30",
+        "CROSSING_POINTS" : "Bahramcha",
+        "Type" : "Unofficial",
+        "Latitude" : 29.420259999999999,
+        "Longitude" : 64.015135999999998
+      },
+      "geometry" : {
+        "x" : 64.015135999999998,
+        "y" : 29.420259999999999
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 5,
+        "Province_Code" : "AF30",
+        "CROSSING_POINTS" : "Islam Qala ",
+        "Type" : "Official",
+        "Latitude" : 34.707990000000002,
+        "Longitude" : 61.00488
+      },
+      "geometry" : {
+        "x" : 61.00488,
+        "y" : 34.707990000000002
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 8,
+        "Province_Code" : "AF33",
+        "CROSSING_POINTS" : "Spin Boldak ",
+        "Type" : "Official",
+        "Latitude" : 30.955878999999999,
+        "Longitude" : 66.437425000000005
+      },
+      "geometry" : {
+        "x" : 66.437425000000005,
+        "y" : 30.955878999999999
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 4,
+        "Province_Code" : "AF26",
+        "CROSSING_POINTS" : "Ghulam Khan  ",
+        "Type" : "Official",
+        "Latitude" : 33.150936000000002,
+        "Longitude" : 70.029984999999996
+      },
+      "geometry" : {
+        "x" : 70.029984999999996,
+        "y" : 33.150936000000002
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 9,
+        "Province_Code" : "AF06",
+        "CROSSING_POINTS" : "Torkham  ",
+        "Type" : "Official",
+        "Latitude" : 34.122641000000002,
+        "Longitude" : 71.093202000000005
+      },
+      "geometry" : {
+        "x" : 71.093202000000005,
+        "y" : 34.122641000000002
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 6,
+        "Province_Code" : "AF34",
+        "CROSSING_POINTS" : "Milak ",
+        "Type" : "Official",
+        "Latitude" : 30.96555,
+        "Longitude" : 61.823383
+      },
+      "geometry" : {
+        "x" : 61.823383,
+        "y" : 30.96555
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 2,
+        "Province_Code" : "AF12",
+        "CROSSING_POINTS" : "Angor Ada  ",
+        "Type" : "Official",
+        "Latitude" : 32.519404000000002,
+        "Longitude" : 69.272672999999998
+      },
+      "geometry" : {
+        "x" : 69.272672999999998,
+        "y" : 32.519404000000002
+      }
+    },
+    {
+      "attributes" : {
+        "ID" : 7,
+        "Province_Code" : "AF13",
+        "CROSSING_POINTS" : "Pathan",
+        "Type" : "Official",
+        "Latitude" : 33.834274999999998,
+        "Longitude" : 69.943410999999998
+      },
+      "geometry" : {
+        "x" : 69.943410999999998,
+        "y" : 33.834274999999998
+      }
+    }
+  ]
+}
