@@ -1,4 +1,4 @@
-﻿s_State,s_State_id,s_lat,s_lon,e_locality,e_locality_id,e_lat,e_lon,e_Volume
+﻿s_State,s_state_id,s_lat,s_lon,e_locality,e_locality_id,e_lat,e_lon,e_Volume
 Abu Nasr Farahi,x_1,32.165039,60.873467,Kabul,AF01,34.554066,69.332594,125
 Abu Nasr Farahi,x_1,32.165039,60.873467,Parwan,AF03,34.958537,68.886329,14
 Abu Nasr Farahi,x_1,32.165039,60.873467,Wardak,AF04,34.292078,68.20295,7
@@ -232,5 +232,6 @@ Pul-e-Abrisham (Milak),x_11,30.96555,61.823383,Badghis,AF31,35.139966,63.677186,
 Pul-e-Abrisham (Milak),x_11,30.96555,61.823383,Herat,AF32,34.059812,61.988025,42135
 Pul-e-Abrisham (Milak),x_11,30.96555,61.823383,Farah,AF33,32.497557,62.462352,76298
 Pul-e-Abrisham (Milak),x_11,30.96555,61.823383,Nimroz,AF34,30.789339,62.316668,49712
+
 
 
